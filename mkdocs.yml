@@ -1,0 +1,75 @@
+site_name: Reference Docs
+site_url: 
+site_description: Documentation for all references.
+site_author: Sathesh Purushothaman
+
+repo_url: 
+edit_uri: ""
+
+theme:
+    name: material
+    #name: windmill
+    #name: ivory
+    highlightjs: true
+    include_homepage_in_sidebar: true
+    prev_next_buttons_location: bottom
+    navigation_depth: 4
+    collapse_navigation: true
+    titles_only: false
+    sticky_navigation: true
+    hljs_languages:
+        - yaml
+        - rust
+
+nav:
+    - Home: index.md
+    - Servers:
+        - Nginx: servers/nginx.md
+        - MongoDB: servers/mongodb.md
+        - Redis: servers/redis.md
+        - DynamoDB: servers/dynamodb.md
+        - ElasticSearch: servers/elasticsearch.md
+        - Kibana: servers/kibana.md
+        - Kafka: servers/kafka.md
+    - Container:
+        - Kubernetes: container/kubernetes.md
+        - Docker: container/docker.md
+        - Helm: container/helm.md
+        - Minikube: container/minikube.md
+    - Service-discovery:
+        - Eureka: service-discovery/eureka.md
+        - Consul: service-discovery/consul.md
+        - Aws cloud map: service-discovery/aws-cloud-map.md
+    - Spring:
+        - Spring-boot: spring/spring-boot.md
+    - Scripts:
+        - Gradle: build-and-scripts/gradle.md
+        - SSH: build-and-scripts/ssh.md
+        - Bash: build-and-scripts/bash.md
+        - network: build-and-scripts/network.md
+    - Links:
+        - Softwares: links/mac-softwares.md
+        - LetsEncrypt: links/letsencrypt.md
+        - AwsCli: links/aws-cli.md
+        - MkDocs: links/mkdocs.md
+    - Diagrams:
+        - PlantUML: diagrams/diagrams.md
+    - Skills:
+        - TechStack: skills/techstack.md
+    - About:
+        - Release: about/about.md
+
+markdown_extensions:
+    - attr_list
+
+plugins:
+  - search
+  - build_plantuml:
+      render: "server" # or "local" for local rendering
+      bin_path: "/usr/local/bin/plantuml" # ignored when render: server
+      server: "http://www.plantuml.com/plantuml" # offical plantuml server
+      output_format: "svg" # or "png"
+      diagram_root: "docs/diagrams" # should reside under docs_dir
+      output_folder: "out"
+      input_folder: "src"
+      input_extensions: "" # comma separated list of extensions to parse, by default every file is parsed
