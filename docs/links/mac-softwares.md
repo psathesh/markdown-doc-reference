@@ -5,6 +5,6 @@ Collection of Mac OSX softwares [awsome-mac](https://github.com/jaywcjlove/aweso
 
 	
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------

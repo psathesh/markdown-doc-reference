@@ -29,6 +29,6 @@ Open the browser and hit the below URL to access the dynamo DB web GUI console
 
 
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------

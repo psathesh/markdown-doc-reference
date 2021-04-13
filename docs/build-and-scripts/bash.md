@@ -26,6 +26,6 @@ SSH Commands
 	$ echo $(brew --prefix)/bin/bash | sudo tee -a /private/etc/shells
 	
 
-[BACK to TOC](./../index.md)
+[BACK to TOC](./../README.md)
 
 ----------

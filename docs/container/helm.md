@@ -39,6 +39,6 @@ For full documentation visit [helm.sh](https://helm.sh/){:target="_blank"}.
 
 
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------

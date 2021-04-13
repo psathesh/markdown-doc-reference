@@ -48,6 +48,6 @@ From outside the Bridge machine (i.e your local machine) execute the below
 	$ scp upurusa@bridge-prod.realizedev.com:/home/upurusa/resourcesearch-service.log /Users/upurusa
 
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------
