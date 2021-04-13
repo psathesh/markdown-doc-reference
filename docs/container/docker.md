@@ -31,3 +31,23 @@ Remove all containers
 Remove all images
 
 	$ docker rmi $(docker images -q)
+
+
+## Steps to download logs from Docker
+
+From outside the docker container (i.e the EC2 host machine) execute the below
+
+	$ sudo docker cp e67771f76d8a:/resourcesearch-service.log /home/ec2-user
+
+From outside the EC2 instance (i.e bridge machine) execute the below
+
+	$ scp -i /etc/ssh/RealizeProd.pem ec2-user@10.2.1.53:/home/ec2-user/resourcesearch-service.log /home/upurusa
+
+From outside the Bridge machine (i.e your local machine) execute the below
+
+	$ scp upurusa@bridge-prod.realizedev.com:/home/upurusa/resourcesearch-service.log /Users/upurusa
+
+
+[BACK to TOC](../../README.md)
+
+----------

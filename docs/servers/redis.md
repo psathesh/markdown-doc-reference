@@ -52,4 +52,6 @@ Change location of the Redis log file
 	$ ln -s /Users/upurusa/tools/servers/redis/logs/redis.log /usr/local/var/log/redis.log
 
 
-	
+[BACK to TOC](../../README.md)
+
+----------

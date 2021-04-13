@@ -20,3 +20,8 @@ For full documentation visit [minikube](https://minikube.sigs.k8s.io/docs/){:tar
 	
 	$ minikube stop
 	
+	
+
+[BACK to TOC](../../README.md)
+
+----------

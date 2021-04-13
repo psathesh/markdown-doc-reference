@@ -1,13 +1,10 @@
 
 
-# Documentation Reference
+# Documentation Reference Read
 Documentation using markdown files
 
 
 ## Topic of content
-
-#### About
-+ [01. Release](docs/about/about.md)
 
 #### Build & Scripts
 + [01. Bash](docs/build-and-scripts/bash.md)

@@ -26,3 +26,9 @@ Open the browser and hit the below URL to access the dynamo DB web GUI console
     
 	http://localhost:8001/shell/#
 
+
+
+
+[BACK to TOC](../../README.md)
+
+----------
