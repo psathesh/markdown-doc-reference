@@ -56,11 +56,8 @@ plugins:
       input_folder: "src"
       input_extensions: "" # comma separated list of extensions to parse, by default every file is parsed
 
-pages:
-    - Home: index.md
-
 nav:
-    - Home: index.md
+    - Home: README.md
     - Builds and Scripts:
         - Bash: build-and-scripts/bash.md
         - Gradle: build-and-scripts/gradle.md
