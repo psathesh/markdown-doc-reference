@@ -14,56 +14,38 @@ theme:
     include_homepage_in_sidebar: true
     prev_next_buttons_location: bottom
     navigation_depth: 4
-    collapse_navigation: true
+    collapse_navigation: false
     titles_only: false
     sticky_navigation: true
     hljs_languages:
         - yaml
         - rust
 
-nav:
-    - Home: index.md
-    - Servers:
-        - Nginx: servers/nginx.md
-        - MongoDB: servers/mongodb.md
-        - Redis: servers/redis.md
-        - DynamoDB: servers/dynamodb.md
-        - ElasticSearch: servers/elasticsearch.md
-        - Kibana: servers/kibana.md
-        - Kafka: servers/kafka.md
-    - Container:
-        - Kubernetes: container/kubernetes.md
-        - Docker: container/docker.md
-        - Helm: container/helm.md
-        - Minikube: container/minikube.md
-    - Service-discovery:
-        - Eureka: service-discovery/eureka.md
-        - Consul: service-discovery/consul.md
-        - Aws cloud map: service-discovery/aws-cloud-map.md
-    - Spring:
-        - Spring-boot: spring/spring-boot.md
-    - Scripts:
-        - Gradle: build-and-scripts/gradle.md
-        - SSH: build-and-scripts/ssh.md
-        - Bash: build-and-scripts/bash.md
-        - network: build-and-scripts/network.md
-    - Links:
-        - Softwares: links/mac-softwares.md
-        - LetsEncrypt: links/letsencrypt.md
-        - AwsCli: links/aws-cli.md
-        - MkDocs: links/mkdocs.md
-    - Diagrams:
-        - PlantUML: diagrams/diagrams.md
-    - Skills:
-        - TechStack: skills/techstack.md
-    - About:
-        - Release: about/about.md
-
 markdown_extensions:
-    - attr_list
+  - attr_list
+  - admonition
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      guess_lang: true
+      extend_pygments_lang:
+        - name: php
+          lang: php
+          options:
+            startinline: true
+  - pymdownx.superfences:
+      css_class: codehilite
+  - pymdownx.inlinehilite:
+      css_class: codehilite
+  - pymdownx.tilde
+  - pymdownx.betterem
+  - pymdownx.mark
 
 plugins:
-  - search
+  - search:
+      lang: en
   - build_plantuml:
       render: "server" # or "local" for local rendering
       bin_path: "/usr/local/bin/plantuml" # ignored when render: server
@@ -73,3 +55,42 @@ plugins:
       output_folder: "out"
       input_folder: "src"
       input_extensions: "" # comma separated list of extensions to parse, by default every file is parsed
+
+
+nav:
+    - Home: index.md
+    - Builds and Scripts:
+        - Bash: build-and-scripts/bash.md
+        - Gradle: build-and-scripts/gradle.md
+        - network: build-and-scripts/network.md
+        - SSH: build-and-scripts/ssh.md
+    - Container:
+        - Docker: container/docker.md
+        - Helm: container/helm.md
+        - Kubernetes: container/kubernetes.md
+        - Minikube: container/minikube.md
+    - Diagrams:
+        - PlantUML: diagrams/diagrams.md
+    - Links:
+        - AwsCli: links/aws-cli.md
+        - LetsEncrypt: links/letsencrypt.md
+        - Mac Softwares: links/mac-softwares.md
+        - MkDocs: links/mkdocs.md
+    - Markdown:
+        - Syntax: markdown/syntax.md
+    - Servers:
+        - DynamoDB: servers/dynamodb.md
+        - ElasticSearch: servers/elasticsearch.md
+        - Kafka: servers/kafka.md
+        - Kibana: servers/kibana.md
+        - MongoDB: servers/mongodb.md
+        - Nginx: servers/nginx.md
+        - Redis: servers/redis.md
+    - Service-discovery:
+        - Aws cloud map: service-discovery/aws-cloud-map.md
+        - Consul: service-discovery/consul.md
+        - Eureka: service-discovery/eureka.md
+    - Skills:
+        - TechStack: skills/techstack.md
+    - Spring:
+        - Spring-boot: spring/spring-boot.md
