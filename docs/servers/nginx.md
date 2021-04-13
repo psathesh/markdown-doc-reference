@@ -57,6 +57,6 @@ Change location of the nginx log files
 
 	
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------

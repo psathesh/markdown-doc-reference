@@ -22,6 +22,6 @@ For full documentation visit [minikube](https://minikube.sigs.k8s.io/docs/){:tar
 	
 	
 
-[BACK to TOC](../../README.md)
+[BACK to TOC](./../README.md)
 
 ----------

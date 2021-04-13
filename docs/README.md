@@ -1,13 +1,13 @@
 
 
-# Documentation Reference Index
+# Documentation Reference ReadMe
 Documentation using markdown files
 
 
 ## Topic of content
 
 #### Build & Scripts
-+ [01. Bash](build-and-scripts/bash)
++ [01. Bash](./build-and-scripts/bash.md)
 + [02. Gradle](build-and-scripts/gradle)
 + [03. network](build-and-scripts/network)
 + [04. SSH](build-and-scripts/ssh)
