@@ -2,7 +2,7 @@
 
 For full documentation visit 
 
-[kafka.apache.org](https://kafka.apache.org/){:target="_blank"}
+[kafka.apache.org](https://kafka.apache.org/)
 
 
 ## Installation

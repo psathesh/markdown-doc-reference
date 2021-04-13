@@ -2,9 +2,9 @@
 
 For full documentation visit 
 
-[elastic.co](https://www.elastic.co/){:target="_blank"}.
+[elastic.co](https://www.elastic.co/).
 
-[Git Elastic Search](https://github.com/elastic/elasticsearch){:target="_blank"}.
+[Git Elastic Search](https://github.com/elastic/elasticsearch).
 
 
 ## Installation

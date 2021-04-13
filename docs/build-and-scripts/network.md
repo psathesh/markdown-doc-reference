@@ -5,11 +5,11 @@ All network related commands and setup
 
 ## IP loopback set up on MacOs
 
-[Article: MacOS Adding a loopback alias](https://aaron.blog/2011/02/04/mac-os-x-adding-a-loopback-alias){:target="_blank"}
+[Article: MacOS Adding a loopback alias](https://aaron.blog/2011/02/04/mac-os-x-adding-a-loopback-alias)
 
-[Article: MacOS permanently create an ifconfig loopback alias](https://medium.com/@david.limkys/permanently-create-an-ifconfig-loopback-alias-macos-b7c93a8b0db){:target="_blank"}
+[Article: MacOS permanently create an ifconfig loopback alias](https://medium.com/@david.limkys/permanently-create-an-ifconfig-loopback-alias-macos-b7c93a8b0db)
 
-[Article: MacOS Persistent loopback interfaces](https://blog.felipe-alfaro.com/2017/03/22/persistent-loopback-interfaces-in-mac-os-x){:target="_blank"}
+[Article: MacOS Persistent loopback interfaces](https://blog.felipe-alfaro.com/2017/03/22/persistent-loopback-interfaces-in-mac-os-x)
 
 
 Check the ping and create a IP loopback alias

@@ -2,8 +2,7 @@
 
 Consul service discovery
 
-[Spring boot reference](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html){:target="_blank"}
-
+[Spring boot reference](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 
 ## Commands
 
@@ -12,8 +11,7 @@ Consul service discovery
 
 ## Reference implementation
 
-[Spring boot reference](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html){:target="_blank"}
-
+[Spring boot reference](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 
 
 

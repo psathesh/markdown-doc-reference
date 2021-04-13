@@ -1,6 +1,6 @@
 # Minikube
 
-For full documentation visit [minikube](https://minikube.sigs.k8s.io/docs/){:target="_blank"}.
+For full documentation visit [minikube](https://minikube.sigs.k8s.io/docs/).
 
 ## Installation
 

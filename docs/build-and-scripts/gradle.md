@@ -2,7 +2,7 @@
 
 Consul service discovery
 
-[gradle.org](https://gradle.org/){:target="_blank"}
+[gradle.org](https://gradle.org/)
 
 
 ## Commands
@@ -11,7 +11,7 @@ Consul service discovery
 
 ## Reference implementation
 
-[Gradle-mkdocs-plugin](https://xvik.github.io/gradle-mkdocs-plugin/2.0.1/){:target="_blank"}
+[Gradle-mkdocs-plugin](https://xvik.github.io/gradle-mkdocs-plugin/2.0.1/)
 
 
 

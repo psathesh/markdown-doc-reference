@@ -1,13 +1,13 @@
 # DynamoDB
 
-For full documentation visit [dynamodb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html){:target="_blank"}.
+For full documentation visit [dynamodb](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html).
 
 ## Installation
 
 Download the DynamoDB installation to a folder and follow instruction
 
 Start DynamoDB
-[Start DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html){:target="_blank"}.
+[Start DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html).
 
 
 ## Commands

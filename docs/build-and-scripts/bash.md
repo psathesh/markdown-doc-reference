@@ -2,7 +2,7 @@
 
 SSH Commands
 
-[Bash upgrade](https://kubernetes.io/docs/tasks/tools/install-kubectl/){:target="_blank"}
+[Bash upgrade](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 
 ## Commands

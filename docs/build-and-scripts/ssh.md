@@ -2,7 +2,7 @@
 
 SSH Commands
 
-[openssh](https://www.openssh.com/manual.html){:target="_blank"}
+[openssh](https://www.openssh.com/manual.html)
 
 
 ## Commands

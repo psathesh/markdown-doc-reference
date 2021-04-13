@@ -2,9 +2,9 @@
 
 For full documentation visit 
 
-[Kibana](https://www.elastic.co/kibana){:target="_blank"}
+[Kibana](https://www.elastic.co/kibana)
 
-[GitHub Kibana](https://github.com/elastic/kibana){:target="_blank"}
+[GitHub Kibana](https://github.com/elastic/kibana)
 
 ## Installation
 
