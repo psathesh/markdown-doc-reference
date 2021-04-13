@@ -1,6 +1,6 @@
 # Nginx
 
-For full documentation visit [nginx.com](https://www.nginx.com/){:target="_blank"}.
+For full documentation visit [nginx.com](https://www.nginx.com/).
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # Redis
 
-For full documentation visit [redis.io](https://redis.io/){:target="_blank"}.
+For full documentation visit [redis.io](https://redis.io/).
 
 ## Installation
 

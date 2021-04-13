@@ -1,6 +1,6 @@
 # Docker
 
-For full documentation visit [docker.com](https://www.docker.com/){:target="_blank"}.
+For full documentation visit [docker.com](https://www.docker.com/).
 
 ## Installation
 

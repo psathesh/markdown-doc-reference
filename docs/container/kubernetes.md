@@ -1,6 +1,6 @@
 # kubernetes
 
-For full documentation visit [kubernetes.io](https://kubernetes.io/){:target="_blank"}.
+For full documentation visit [kubernetes.io](https://kubernetes.io/).
 
 ## Installation
 

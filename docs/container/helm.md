@@ -1,6 +1,6 @@
 # Helm
 
-For full documentation visit [helm.sh](https://helm.sh/){:target="_blank"}.
+For full documentation visit [helm.sh](https://helm.sh/).
 
 ## Installation
 

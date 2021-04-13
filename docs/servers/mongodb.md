@@ -1,6 +1,6 @@
 # MongoDB
 
-For full documentation visit [mongodb](https://www.mongodb.com/){:target="_blank"}.
+For full documentation visit [mongodb](https://www.mongodb.com/).
 
 ## Installation
 

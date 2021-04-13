@@ -2,11 +2,11 @@
 
 For full documentation visit 
 
-[letsencrypt.org](https://letsencrypt.org/){:target="_blank"}
+[letsencrypt.org](https://letsencrypt.org/)
 
-[CertBot](https://certbot.eff.org/){:target="_blank"}
+[CertBot](https://certbot.eff.org/)
 
-[LetsEncrypt CertBot & AWS](https://itnext.io/using-letsencrypt-ssl-certificates-in-aws-certificate-manager-c2bc3c6ae10){:target="_blank"}
+[LetsEncrypt CertBot & AWS](https://itnext.io/using-letsencrypt-ssl-certificates-in-aws-certificate-manager-c2bc3c6ae10)
 
 
 ## Installation

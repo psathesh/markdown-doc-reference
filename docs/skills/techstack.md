@@ -2,7 +2,7 @@
 
 List of tech stacks
 
-[Stack Share](https://stackshare.io/){:target="_blank"}
+[Stack Share](https://stackshare.io/)
 
 
 ## Installation

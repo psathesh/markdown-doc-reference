@@ -2,7 +2,7 @@
 
 For full documentation visit 
 
-[AWS Cli](https://aws.amazon.com/cli/){:target="_blank"}
+[AWS Cli](https://aws.amazon.com/cli/)
 
 
 ## Installation

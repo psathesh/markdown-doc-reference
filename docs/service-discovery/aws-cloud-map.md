@@ -2,7 +2,7 @@
 
 Consul service discovery
 
-[AWS cloud map](https://aws.amazon.com/cloud-map/){:target="_blank"}
+[AWS cloud map](https://aws.amazon.com/cloud-map/)
 
 
 ## Commands
@@ -12,7 +12,7 @@ Consul service discovery
 	
 ## Reference implementation
 
-[Spring AWS cloud map integration document](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html){:target="_blank"}
+[Spring AWS cloud map integration document](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html)
 
 	
 
