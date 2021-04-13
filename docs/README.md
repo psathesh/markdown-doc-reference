@@ -7,7 +7,7 @@ Documentation using markdown files
 ## Topic of content
 
 #### Build & Scripts
-+ [01. Bash](./build-and-scripts/bash.md.md)
++ [01. Bash](./build-and-scripts/bash.md)
 + [02. Gradle](./build-and-scripts/gradle.md)
 + [03. network](./build-and-scripts/network.md)
 + [04. SSH](./build-and-scripts/ssh.md)
