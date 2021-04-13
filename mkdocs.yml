@@ -26,7 +26,7 @@ markdown_extensions:
   - admonition
   - def_list
   - toc:
-      permalink: true
+      permalink: "#"
   - pymdownx.details
   - pymdownx.highlight:
       guess_lang: true
@@ -56,6 +56,8 @@ plugins:
       input_folder: "src"
       input_extensions: "" # comma separated list of extensions to parse, by default every file is parsed
 
+pages:
+    - Home: index.md
 
 nav:
     - Home: index.md
