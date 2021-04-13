@@ -8,46 +8,46 @@ Documentation using markdown files
 
 #### Build & Scripts
 + [01. Bash](build-and-scripts/bash)
-+ [02. Gradle](docs/build-and-scripts/gradle.md)
-+ [03. network](docs/build-and-scripts/network.md)
-+ [04. SSH](docs/build-and-scripts/ssh.md)
++ [02. Gradle](build-and-scripts/gradle)
++ [03. network](build-and-scripts/network)
++ [04. SSH](build-and-scripts/ssh)
 
 #### Container
 
-+ [01. Docker](docs/container/docker.md)
-+ [02. Helm](docs/container/helm.md)
-+ [03. Kubernetes](docs/container/kubernetes.md)
-+ [04. Minikube](docs/container/minikube.md)
++ [01. Docker](container/docker)
++ [02. Helm](container/helm)
++ [03. Kubernetes](container/kubernetes)
++ [04. Minikube](container/minikube)
 
 #### Diagrams
-+ [01. PlantUML](docs/diagrams/diagrams.md)
++ [01. PlantUML](diagrams/diagrams)
 
 #### Links
-+ [01. AwsCli](docs/links/aws-cli.md)
-+ [02. LetsEncrypt](docs/links/letsencrypt.md)
-+ [03. Mac Softwares](docs/links/mac-softwares.md)
-+ [04. MkDocs](docs/links/mkdocs.md)
++ [01. AwsCli](links/aws-cli)
++ [02. LetsEncrypt](links/letsencrypt)
++ [03. Mac Softwares](links/mac-softwares)
++ [04. MkDocs](links/mkdocs)
 
 #### Servers documents
 
-+ [01. DynamoDB](docs/servers/dynamodb.md)
-+ [02. ElasticSearch](docs/servers/elasticsearch.md)
-+ [03. Kafka](docs/servers/kafka.md)
-+ [04. Kibana](docs/servers/kibana.md)
-+ [05. MongoDB](docs/servers/mongodb.md)
-+ [06. Nginx](docs/servers/nginx.md)
-+ [07. Redis](docs/servers/redis.md)
++ [01. DynamoDB](servers/dynamodb)
++ [02. ElasticSearch](servers/elasticsearch)
++ [03. Kafka](servers/kafka)
++ [04. Kibana](servers/kibana)
++ [05. MongoDB](servers/mongodb)
++ [06. Nginx](servers/nginx)
++ [07. Redis](servers/redis)
 
 #### Service-discovery
-+ [01. Aws cloud map](docs/service-discovery/aws-cloud-map.md)
-+ [02. Consul](docs/service-discovery/consul.md)
-+ [03. Eureka](docs/service-discovery/eureka.md)
++ [01. Aws cloud map](service-discovery/aws-cloud-map)
++ [02. Consul](service-discovery/consul)
++ [03. Eureka](service-discovery/eureka)
 
 #### Skills
-+ [01. TechStack](docs/skills/techstack.md)
++ [01. TechStack](skills/techstack)
 
 #### Spring
-+ [01. Spring-boot](docs/spring/spring-boot.md)
++ [01. Spring-boot](spring/spring-boot)
 
 
 
